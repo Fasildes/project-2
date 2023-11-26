@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is from frontend 
 how are you
+=======
+this is from frontend
+>>>>>>> 883659d20e7f385774493308c04acff0362340c6
