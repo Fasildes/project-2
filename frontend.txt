@@ -1,10 +1,10 @@
 
+
 this is from frontend 
 how are you
-<<<<<<< HEAD
 this is from frontend
-hello
-=======
+
 this is from frontend 
-hello 
->>>>>>> 582fa82 (some change commit)
+hello
+
+
